@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="Podcastr" title="Podcastr" src=".github/logo.svg" />
+</p>
+
 <h1 align="center">Next Level Week #5</h1>
 
 <div align="center">
